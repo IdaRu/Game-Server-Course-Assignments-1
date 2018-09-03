@@ -1,0 +1,14 @@
+C:\Users\idaru\Documents\Webappi\bin\Debug\netcoreapp2.1\Webappi.deps.json
+C:\Users\idaru\Documents\Webappi\bin\Debug\netcoreapp2.1\Webappi.runtimeconfig.json
+C:\Users\idaru\Documents\Webappi\bin\Debug\netcoreapp2.1\Webappi.runtimeconfig.dev.json
+C:\Users\idaru\Documents\Webappi\bin\Debug\netcoreapp2.1\Webappi.dll
+C:\Users\idaru\Documents\Webappi\bin\Debug\netcoreapp2.1\Webappi.pdb
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.csprojAssemblyReference.cache
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.csproj.CoreCompileInputs.cache
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.RazorAssemblyInfo.cache
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.RazorAssemblyInfo.cs
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.AssemblyInfoInputs.cache
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.AssemblyInfo.cs
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.RazorTargetAssemblyInfo.cache
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.dll
+C:\Users\idaru\Documents\Webappi\obj\Debug\netcoreapp2.1\Webappi.pdb
